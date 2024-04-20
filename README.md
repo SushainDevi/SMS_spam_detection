@@ -44,6 +44,3 @@ This project aims to build a machine learning model for detecting spam messages 
 - Sushain Devi
 - GitHub: [Sushain Devi](https://github.com/SushainDevi)
 
-**References**
-- Dataset source: [Provide link to dataset source]
-- Additional resources: [Any additional resources or papers referenced]
